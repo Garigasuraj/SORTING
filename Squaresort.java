@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class squaresort {
+public class Squaresort {
     static void sort(int arr[], int n){
         int k;
         for(k=0; k<n; k++){
